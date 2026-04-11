@@ -1,17 +1,15 @@
 <div align="center">
 
-<!-- Animated header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:003d20,100:00ff88&height=220&section=header&text=Hey%20%F0%9F%91%8B%20I'm%20Utkal&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Linux%20Kernel%20Contributor%20%E2%80%A2%20AI%2FML%20Enthusiast%20%E2%80%A2%20Open%20Source%20%40%20GSoC%202026&descAlignY=58&descSize=15&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:003d20,100:00ff88&height=220&section=header&text=Hey%20%F0%9F%91%8B%20I'm%20Utkal&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Linux%20Kernel%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20Open%20Source%20%40%20GSoC%202026&descAlignY=58&descSize=15&animation=fadeIn" width="100%"/>
 
-<!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&repeat=true&width=650&lines=Building+AI+tools+that+make+sense+%F0%9F%A4%96;Sending+patches+to+linux-erofs+%F0%9F%90%A7;Exploring+deep+learning+architectures+%F0%9F%A7%A0;GSoC+2026+applicant+%E2%9A%A1;open+source+%3E+everything+else+%F0%9F%8C%90" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&repeat=true&width=700&lines=Linux+kernel+contributor+%F0%9F%90%A7+erofs-utils;Building+full-stack+systems+in+C%2B%2B+%2B+React;GSoC+2026+applicant+%E2%9A%A1;4+patches+merged+upstream+%E2%9C%85;open+source+%3E+everything+else+%F0%9F%8C%90" alt="Typing SVG" />
 
 <br/><br/>
 
-<!-- Badges -->
 ![Linux Kernel](https://img.shields.io/badge/Linux_Kernel-Contributor-00ff88?style=flat-square&logo=linux&logoColor=white&labelColor=0d1117)
 ![GSoC](https://img.shields.io/badge/GSoC-2026_Applicant-4285f4?style=flat-square&logo=google&logoColor=white&labelColor=0d1117)
 ![AI/ML](https://img.shields.io/badge/AI%2FML-Enthusiast-bc8cff?style=flat-square&logo=pytorch&logoColor=white&labelColor=0d1117)
+![TypeScript](https://img.shields.io/badge/TypeScript-Contributor-3178c6?style=flat-square&logo=typescript&logoColor=white&labelColor=0d1117)
 ![Open Source](https://img.shields.io/badge/Open_Source-%E2%9D%A4%EF%B8%8F-ff6b6b?style=flat-square&labelColor=0d1117)
 
 <br/>
@@ -27,31 +25,42 @@
 
 ```python
 class Utkal:
-    name       = "Utkal Singh"
-    handle     = "@Utkal059"
-    role       = ["Linux Kernel Contributor", "CS Student", "AI/ML Enthusiast"]
-    gsoc       = "2026 Applicant → erofs / Linux kernel"
+    name        = "Utkal Singh"
+    handle      = "@Utkal059"
+    degree      = "B.Tech CSE @ Thapar Institute of Engineering & Technology (2027)"
 
-    passions   = ["artificial intelligence", "open source", "filesystems", "quantum computing"]
-    currently  = ["deep learning architectures", "kernel internals", "CUDA programming"]
+    roles       = [
+        "Linux Kernel Contributor (erofs-utils)",
+        "Full-Stack Engineer (C++ · Python · TypeScript · React)",
+        "AI/ML Enthusiast",
+        "GSoC 2026 Applicant",
+    ]
 
-    tools      = ["C", "Python", "PyTorch", "Git", "Linux", "Bash", "Docker"]
-    env        = "WSL Ubuntu + VS Code"
+    currently_building = [
+        "OrderFlow Backtester — C++ LOB + FastAPI + React Bloomberg-style dashboard",
+        "Multi-threaded fsck.erofs — GSoC 2026 proposal (parallel inode verification)",
+        "ContributorProfileCard — TypeScript/React for GSSoC open-source platform",
+    ]
 
-    fun_fact   = "Sent 70+ patches to linux-erofs in ~2 weeks 🐧"
-    ask_me     = "filesystems · AI/ML · quantum computing · open source strategy"
+    languages   = ["C", "C++", "Python", "TypeScript", "Bash", "SQL"]
+    exploring   = ["Rust", "Go"]
+
+    tools       = ["React", "FastAPI", "pybind11", "PyTorch", "XGBoost", "Docker", "Git"]
+    env         = "WSL2 Ubuntu + VS Code"
+
+    fun_fact    = "4 patches merged upstream to linux-erofs; 100+ sent to the mailing list 🐧"
+    ask_me      = "filesystems · kernel internals · full-stack systems · quant finance · open source"
 ```
 
 ---
 
-## 🤖 AI/ML Interests
+## 🚀 What I'm Building
 
-| Area | What I'm Exploring |
-|------|-------------------|
-| 🧠 **Deep Learning** | CNNs, Transformers, attention mechanisms |
-| 🔬 **Research + OSS AI** | Reproducible ML, contributing to open AI tooling |
-| ⚡ **Systems for ML** | Bridging low-level C systems knowledge with ML infra |
-| 🌌 **Quantum Computing** | Multi-qubit gates, Bell states, quantum algorithms |
+| Project | Stack | Status |
+|---------|-------|--------|
+| **[OrderFlow Backtester](https://github.com/Utkal059/orderflow-backtester)** | C++ LOB · pybind11 · FastAPI · React/Vite · XGBoost · GARCH | 🔨 Active |
+| **Multi-threaded fsck.erofs** | C · pthreads · Linux kernel | 📬 GSoC 2026 Proposal |
+| **Open-Source-Contribution-Atelier** | TypeScript · React · Tailwind CSS | 🔨 Active (GSSoC) |
 
 ---
 
@@ -59,26 +68,42 @@ class Utkal:
 
 <div align="center">
 
-**AI / ML**
+**Systems & Kernel**
 
+[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
+
+**Full-Stack & Web**
+
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com)
+[![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev)
+
+**AI / ML & Data**
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org)
+[![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white)](https://xgboost.readthedocs.io)
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
 
-**Systems & Kernel**
+**DevOps & Tooling**
 
-[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
-[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
-
-**Languages & Tools**
-
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
-[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
+[![pybind11](https://img.shields.io/badge/pybind11-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://pybind11.readthedocs.io)
 [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com)
+[![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)](https://www.prisma.io)
+
+**Exploring Next**
+
+[![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org)
+[![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev)
 
 </div>
 
@@ -99,9 +124,27 @@ class Utkal:
 | fsck xattr verification fix | `fsck/main.c` | ✅ Merged |
 | Directory recursion depth limit | `lib/dir.c` | ✅ Merged |
 
+### 🧩 CRIU (Checkpoint/Restore In Userspace)
+- **PR #2982** — Fix nanosecond overflow in POSIX timer restore
+
 ### 🔬 MoganLab/mogan (Scientific Editor)
 - **PR #2914** — `fix(typeset)`: suppress ghost borders in vertically-spanned table cells
-- **PR #2915** — fix tab rendering in document editor
+- **PR #2915** — Fix tab rendering in document editor
+
+### 🌐 GSSoC — Open-Source-Contribution-Atelier
+- **Issue #22** — `ContributorProfileCard`: XP system, badge styling, level progression in TypeScript/React
+
+---
+
+## 🤖 AI/ML & Quant Interests
+
+| Area | What I'm Exploring |
+|------|-------------------|
+| 🧠 **Deep Learning** | CNNs, Transformers, attention mechanisms |
+| 📈 **Quant Finance** | Order book dynamics, GARCH models, derivatives (Hull) |
+| ⚡ **Systems for ML** | C++ ↔ Python via pybind11, low-latency inference |
+| 🌌 **Quantum Computing** | Multi-qubit gates, Bell states, quantum algorithms |
+| 🔬 **Research + OSS AI** | Reproducible ML, contributing to open AI tooling |
 
 ---
 
@@ -111,7 +154,7 @@ class Utkal:
 
 <img src="https://github-readme-stats.vercel.app/api?username=Utkal059&show_icons=true&theme=merko&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9&rank_icon=github&include_all_commits=true" height="170"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utkal059&layout=compact&theme=merko&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9&langs_count=6" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utkal059&layout=compact&theme=merko&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9&langs_count=8" height="170"/>
 
 <br/>
 
