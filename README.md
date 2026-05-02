@@ -204,6 +204,102 @@ learning next    Rust  ·  Go  ·  io_uring  ·  eBPF
 
 ---
 
+## 📜 Credentials
+
+<sub><i>Formal coursework and program completions, grouped by domain. Verifiable via the credential IDs noted on my <a href="https://www.linkedin.com/in/utkal-singh03/">LinkedIn</a>.</i></sub>
+
+<br/>
+
+<details open>
+<summary><b>🤖&nbsp; AI / ML & Generative AI</b></summary>
+<br/>
+
+<p>
+<img src="https://img.shields.io/badge/Generative_AI_with_Diffusion_Models-NVIDIA-76b900?style=for-the-badge&logo=nvidia&logoColor=white&labelColor=0d1117" alt="NVIDIA Generative AI"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Fundamentals_of_Deep_Learning-NVIDIA-76b900?style=for-the-badge&logo=nvidia&logoColor=white&labelColor=0d1117" alt="NVIDIA Deep Learning"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Fine--tune_LLM_(Foundry)-Microsoft-0078d4?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=0d1117" alt="Microsoft Fine-tune LLM"/>
+&nbsp;
+<img src="https://img.shields.io/badge/RAG_with_Microsoft_Foundry-Microsoft-0078d4?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=0d1117" alt="Microsoft RAG"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Multi--Agent_Orchestration-Microsoft-0078d4?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=0d1117" alt="Microsoft Agents"/>
+&nbsp;
+<img src="https://img.shields.io/badge/AI_for_Beginners-HP_LIFE-0096d6?style=for-the-badge&logo=hp&logoColor=white&labelColor=0d1117" alt="HP AI"/>
+</p>
+
+</details>
+
+<details open>
+<summary><b>🔌&nbsp; API tooling & Data</b></summary>
+<br/>
+
+<p>
+<img src="https://img.shields.io/badge/API_Testing_Path-Postman-ff6c37?style=for-the-badge&logo=postman&logoColor=white&labelColor=0d1117" alt="Postman API Testing"/>
+&nbsp;
+<img src="https://img.shields.io/badge/API_Prototyping_Path-Postman-ff6c37?style=for-the-badge&logo=postman&logoColor=white&labelColor=0d1117" alt="Postman API Prototyping"/>
+&nbsp;
+<img src="https://img.shields.io/badge/API_Documentation_Path-Postman-ff6c37?style=for-the-badge&logo=postman&logoColor=white&labelColor=0d1117" alt="Postman API Docs"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Data_Science_%26_Analytics-HP_LIFE-0096d6?style=for-the-badge&logo=hp&logoColor=white&labelColor=0d1117" alt="HP Data Science"/>
+</p>
+
+</details>
+
+<details open>
+<summary><b>📊&nbsp; Strategy & Consulting</b></summary>
+<br/>
+
+<p>
+<img src="https://img.shields.io/badge/Strategic_%26_Experience_Design-BCG_X-00805f?style=for-the-badge&logoColor=white&labelColor=0d1117" alt="BCG X"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Forward_Program-McKinsey.org-051c2c?style=for-the-badge&logoColor=white&labelColor=0d1117" alt="McKinsey Forward"/>
+</p>
+
+</details>
+
+<details open>
+<summary><b>🛡️&nbsp; Security · Hardware · Hackathons</b></summary>
+<br/>
+
+<p>
+<img src="https://img.shields.io/badge/Introduction_to_Cybersecurity-Cisco-1ba0d7?style=for-the-badge&logo=cisco&logoColor=white&labelColor=0d1117" alt="Cisco Cybersecurity"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Drone_Developer_(UAV_Systems)-Reliance_Foundation-c4192b?style=for-the-badge&logoColor=white&labelColor=0d1117" alt="Reliance Drone"/>
+&nbsp;
+<img src="https://img.shields.io/badge/CanHack_2026-IoES_%C3%97_U._Canberra-7d3c98?style=for-the-badge&logoColor=white&labelColor=0d1117" alt="CanHack 2026"/>
+</p>
+
+</details>
+
+<br/>
+
+<details>
+<summary><sub><b>📖 full credential list with dates & IDs</b></sub></summary>
+<br/>
+
+| Credential | Issuer | Date | Credential ID |
+|---|---|---|---|
+| Strategic & Experience Design Job Simulation | BCG X (via Forage) | Mar 2026 | `8ubXix7qwh8TSxRnm` |
+| Generative AI with Diffusion Models | NVIDIA | Feb 2026 | `n0C83Nt5Qu-Es6tf9IgHTQ` |
+| Fine-tune a Language Model with Microsoft Foundry | Microsoft | Feb 2026 | `9r4npyhu` |
+| Develop a RAG-based Solution with Microsoft Foundry | Microsoft | Feb 2026 | `hzdybrv8` |
+| Orchestrate a Multi-agent Solution (Agent Framework) | Microsoft | Feb 2026 | `2j34z69v` |
+| API Testing Path | Postman Academy | Feb 2026 | — |
+| API Prototyping Path | Postman Academy | Feb 2026 | — |
+| API Documentation Learning Path | Postman Academy | Feb 2026 | — |
+| Drone Developer Programme (UAV Systems & Flight Control) | Reliance Foundation | Feb 2026 | `RFSA000381035` |
+| Introduction to Cybersecurity | Cisco Networking Academy | Feb 2026 | — |
+| AI for Beginners | HP LIFE | Feb 2026 | `3aa6cb14-9282-4d5e-b140-1a3d266b1860` |
+| Data Science & Analytics | HP LIFE | Feb 2026 | `b3f21b30-5227-446c-aac8-0b39eb7e4ef1` |
+| CanHack 2026 — Participation (Team Civic Shield) | IoES × U. Canberra | Jan 2026 | `IOES/CANHACK/2026/PC` |
+| McKinsey.org Forward Program | McKinsey.org | Dec 2025 | — |
+| Fundamentals of Deep Learning | NVIDIA | Jun 2025 | `p7JxzU-2T3aVIHN5B1hMpw` |
+
+</details>
+
+---
+
 ## 📈 GitHub
 
 <div align="center">
