@@ -1,11 +1,3 @@
-# <!-- ================================================================
-  UTKAL SINGH — GitHub Profile README
-  ─────────────────────────────────────────────────────────────────
-  Setup: Create repo  Utkal059/Utkal059  on GitHub (if it doesn't
-  exist), then commit this file as README.md in the root.
-  That special repo auto-displays on your GitHub profile page.
-  ================================================================ -->
-
 <div align="center">
 
 <!-- ── HEADER BANNER ─────────────────────────────────────────────── -->
