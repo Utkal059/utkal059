@@ -1,4 +1,4 @@
-<div1 align="center">
+<div align="center">
 
 <!-- ── HEADER BANNER ─────────────────────────────────────────────── -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Utkal%20Singh&fontSize=54&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Linux%20Kernel%20Author%20%E2%80%A2%20AI%2FML%20Engineer%20%E2%80%A2%20Open%20Source%20Builder&descSize=17&descAlignY=60&descAlign=50" width="100%"/>
