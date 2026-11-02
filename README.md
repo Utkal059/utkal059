@@ -126,6 +126,12 @@ class UtkalSingh:
 
 ## 🐧 Open Source Contributions
 
+<div align="center">
+
+[![Contributor](https://img.shields.io/badge/1st%20PR%20MERGED-KESTRA-1F232C?style=for-the-badge&logo=github&logoColor=200062&labelColor=CDC5FF)](https://kestra.io/community?from=github-badge)
+
+</div>
+
 <table>
 <tr>
 <td valign="top" width="50%">
@@ -161,6 +167,7 @@ class UtkalSingh:
 <td valign="top" width="50%">
 
 **🌱 Additional Contributions**
+- **Kestra** — first PR merged · unit tests for the `KsDataTable` mobile column helpers (frontend)
 - **GSSoC 2026** — 3 PRs merged (selected contributor)
 - **Techtonica** — PR #2687 merged (curriculum contribution)
 - **gittuf** — supply-chain security tooling
@@ -204,6 +211,7 @@ class UtkalSingh:
 | 🔄 **CRIU Org Member** | Invited Apr 2026 · checkpoint-restore organisation · production Kubernetes C/R infrastructure |
 | 🎓 **LFX Mentee 2026** | Competitively selected · Linux Foundation · Hiero GitHub Workflow Automation (Jun–Nov 2026) |
 | 🌿 **GSSoC 2026 Contributor** | Selected contributor · 3 PRs merged across open-source projects |
+| ⚙️ **Kestra Contributor** | First PR merged · Kestra contributor badge |
 | 🦈 **GitHub Pull Shark** | High-cadence merged pull requests across multiple repositories |
 | ⚡ **GitHub Quickdraw** | Fast engagement on issues and pull requests |
 | 🤝 **GitHub Pair Extraordinaire** | Co-authored commits in collaborative OSS environments |
